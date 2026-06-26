@@ -7,8 +7,8 @@ import os
 import schedule          # <--- NEW
 from datetime import datetime
 
-BOT_TOKEN = "8839323047:AAG8zWPJLrd9SFYGyz7cwKCz4nUAoMxY4Ts"
-CHAT_ID = "6095501363"
+BOT_TOKEN = "8842112440:AAEqMJ3hYkznPS-BD8jKvE0eciyUMAtu688"
+CHAT_ID = "7641964482"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 camera = None
